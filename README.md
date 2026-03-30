@@ -1,4 +1,4 @@
-# Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Programming+Enthusiast)
 
 ## About Me
 - 🌱 I’m currently learning Python & Selenium
