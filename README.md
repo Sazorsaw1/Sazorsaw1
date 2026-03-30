@@ -3,14 +3,21 @@
 </p>
 
 ## About Me
-- 🌱 I’m currently learning Python & Selenium
+- 🌱 I’m currently learning Python & Selenium to master QA Automation
 - 💻 Interested in automation & testing
-- 🚀 Learning Git & GitHub
+- 🚀 Experienced in Manual Quality Assurance
 
 ## Tech Stack
-- Python
-- Selenium
-- Git
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" style="margin:10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" style="margin:10px;"/>
+</p>
 
 ## Projects
 - 🔹 Testing Automation (Selenium)
