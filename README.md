@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Breaking+Things+To+Build+Better+Software" />
 </p>
 
 ## About Me
