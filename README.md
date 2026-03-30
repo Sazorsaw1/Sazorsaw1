@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Programming+Enthusiast)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!" />
+</p>
 
 ## About Me
 - 🌱 I’m currently learning Python & Selenium
