@@ -6,6 +6,18 @@
 - 🌱 I’m currently learning Python & Selenium to master QA Automation
 - 💻 Interested in automation & testing
 - 🚀 Experienced in Manual Quality Assurance
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:ahmadrafi40@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ahmad-rafi-nur-adli-8a4843154/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20"/>
+  </a>
+</p>
 
 ## Tech Stack
 <p align="center">
@@ -24,3 +36,4 @@
 
 ## Contact
 - GitHub: https://github.com/Sazorsaw1
+- E
