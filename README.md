@@ -34,3 +34,4 @@
 
 ## Projects
 - 🔹 Testing Automation (Selenium)
+- 🔹 Building Basic Restaurant Website
