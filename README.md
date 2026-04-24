@@ -45,34 +45,36 @@
 
 ## 📂 Featured Projects
 
-### 🔹 QA Automation Testing (Selenium)
-- Automated web testing using **Selenium WebDriver**
-- Implemented test scripts for form interaction and validation
-- Focus on improving efficiency and reducing manual testing effort
+### 🔹 QA Automation Testing – Prods Project
+- Developed automation scripts using **Python & Selenium WebDriver**
+- Automated key test scenarios:
+  - Search functionality validation
+  - Dynamic content handling (menu/cards filtering)
+  - Form input and UI interaction testing
+- Implemented **explicit waits, element locators (XPath/CSS), and reusable functions**
+- Practiced structuring tests for **readability and maintainability**
+- Reduced manual testing effort by automating repetitive validation flows
 
 ---
 
-### 🔹 BugFlow – Issue Tracking Dashboard
-- Built a **multi-page web dashboard** for tracking issues
-- Features:
-  - Login system
-  - Dashboard UI
-  - Create issue modal
-- Focused on **UI/UX and workflow simulation for QA environments**
-
----
-
-### 🔹 Restaurant Website
-- Developed a **restaurant-themed website**
-- Implemented responsive UI with **modern color scheme (orange & yellow)**
-- Focused on **frontend structure and user experience**
+### 🔹 Restaurant Website (Frontend Project)
+- Built a **responsive multi-page restaurant website** using **HTML, CSS, and JavaScript**
+- Implemented features:
+  - Menu display with structured layout
+  - Search/filter interaction
+  - Clean navigation and UI components
+- Focused on:
+  - **Responsive design (mobile-friendly)**
+  - **User experience and layout consistency**
+- Used as a **testing target for QA practice (manual & automation scenarios)**
 
 ---
 
 ## 📈 Currently Learning
-- Advanced **Selenium Automation**
-- Test case design & optimization
-- CI/CD for QA (future goal)
+- Advancing **Selenium Automation with Python** (framework structuring & reusable test design)
+- Improving **test case design** (boundary testing, edge cases, and optimization techniques)
+- Exploring **Pytest framework** for better test organization and reporting
+- Introduction to **CI/CD for QA** (test execution in automated pipelines)
 
 ---
 
